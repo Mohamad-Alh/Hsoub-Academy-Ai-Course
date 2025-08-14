@@ -1,0 +1,171 @@
+{
+    "title": "Popular Cities Forecast",
+    "date": "14/08/2025",
+    "cities": [
+        {
+            "city": "Amsterdam",
+            "temp": 24,
+            "condition": "Clear sky"
+        },
+        {
+            "city": "Antalya",
+            "temp": 33,
+            "condition": "Clear sky"
+        },
+        {
+            "city": "Auckland",
+            "temp": 6,
+            "condition": "Light intensity drizzle"
+        },
+        {
+            "city": "Bali",
+            "temp": 17,
+            "condition": "Light rain"
+        },
+        {
+            "city": "Barcelona",
+            "temp": 32,
+            "condition": "Partly cloudy"
+        },
+        {
+            "city": "Buenos Aires",
+            "temp": 10,
+            "condition": "Clear sky"
+        },
+        {
+            "city": "Cairo",
+            "temp": 37,
+            "condition": "Clear sky"
+        },
+        {
+            "city": "Canc�n",
+            "temp": 29,
+            "condition": "Light rain"
+        },
+        {
+            "city": "Cape Town",
+            "temp": 15,
+            "condition": "Few clouds"
+        },
+        {
+            "city": "Dubai",
+            "temp": 38,
+            "condition": "Few clouds"
+        },
+        {
+            "city": "Hanoi",
+            "temp": 29,
+            "condition": "Broken clouds"
+        },
+        {
+            "city": "Hong Kong",
+            "temp": 26,
+            "condition": "Moderate rain"
+        },
+        {
+            "city": "Honolulu",
+            "temp": 24,
+            "condition": "Few clouds"
+        },
+        {
+            "city": "Ibiza Town",
+            "temp": 32,
+            "condition": "Clear sky"
+        },
+        {
+            "city": "Istanbul",
+            "temp": 27,
+            "condition": "Few clouds"
+        },
+        {
+            "city": "Lima",
+            "temp": 18,
+            "condition": "Few clouds"
+        },
+        {
+            "city": "London",
+            "temp": 28,
+            "condition": "Broken clouds"
+        },
+        {
+            "city": "Marmagao",
+            "temp": 24,
+            "condition": "Heavy intensity rain"
+        },
+        {
+            "city": "Oslo",
+            "temp": 23,
+            "condition": "Overcast clouds"
+        },
+        {
+            "city": "Paris",
+            "temp": 30,
+            "condition": "Clear sky"
+        },
+        {
+            "city": "Phuket",
+            "temp": 27,
+            "condition": "Light rain"
+        },
+        {
+            "city": "Rhodes",
+            "temp": 30,
+            "condition": "Clear sky"
+        },
+        {
+            "city": "Rio de Janeiro",
+            "temp": 22,
+            "condition": "Broken clouds"
+        },
+        {
+            "city": "Rome",
+            "temp": 35,
+            "condition": "Clear sky"
+        },
+        {
+            "city": "Seoul",
+            "temp": 25,
+            "condition": "Broken clouds"
+        },
+        {
+            "city": "Sharm el Sheikh",
+            "temp": 47,
+            "condition": "Clear sky"
+        },
+        {
+            "city": "Singapore",
+            "temp": 28,
+            "condition": "Broken clouds"
+        },
+        {
+            "city": "Sydney",
+            "temp": 11,
+            "condition": "Few clouds"
+        },
+        {
+            "city": "Tenerife",
+            "temp": 28,
+            "condition": "Partly cloudy"
+        },
+        {
+            "city": "Tokyo",
+            "temp": 26,
+            "condition": "Partly cloudy"
+        },
+        {
+            "city": "Toronto",
+            "temp": 25,
+            "condition": "Partly cloudy"
+        },
+        {
+            "city": "Venice",
+            "temp": 33,
+            "condition": "Clear sky"
+        },
+        {
+            "city": "Vienna",
+            "temp": 33,
+            "condition": "Clear sky"
+        }
+    ]
+}

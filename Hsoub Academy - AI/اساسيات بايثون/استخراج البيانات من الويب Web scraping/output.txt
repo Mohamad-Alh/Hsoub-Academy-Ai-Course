@@ -1,0 +1,40 @@
+Popular Cities Forecast
+14/08/2025
+==========================================================
++-----------------+-------------+-------------------------+
+|      City       | Temperature |        Condition        |
++-----------------+-------------+-------------------------+
+|    Amsterdam    |     24      |        Clear sky        |
+|     Antalya     |     33      |        Clear sky        |
+|    Auckland     |      6      | Light intensity drizzle |
+|      Bali       |     17      |       Light rain        |
+|    Barcelona    |     32      |      Partly cloudy      |
+|  Buenos Aires   |     10      |        Clear sky        |
+|      Cairo      |     37      |        Clear sky        |
+|     Cancún      |     29      |       Light rain        |
+|    Cape Town    |     15      |       Few clouds        |
+|      Dubai      |     38      |       Few clouds        |
+|      Hanoi      |     29      |      Broken clouds      |
+|    Hong Kong    |     26      |      Moderate rain      |
+|    Honolulu     |     24      |       Few clouds        |
+|   Ibiza Town    |     32      |        Clear sky        |
+|    Istanbul     |     27      |       Few clouds        |
+|      Lima       |     18      |       Few clouds        |
+|     London      |     28      |      Broken clouds      |
+|    Marmagao     |     24      |  Heavy intensity rain   |
+|      Oslo       |     23      |     Overcast clouds     |
+|      Paris      |     30      |        Clear sky        |
+|     Phuket      |     27      |       Light rain        |
+|     Rhodes      |     30      |        Clear sky        |
+| Rio de Janeiro  |     22      |      Broken clouds      |
+|      Rome       |     35      |        Clear sky        |
+|      Seoul      |     25      |      Broken clouds      |
+| Sharm el Sheikh |     47      |        Clear sky        |
+|    Singapore    |     28      |      Broken clouds      |
+|     Sydney      |     11      |       Few clouds        |
+|    Tenerife     |     28      |      Partly cloudy      |
+|      Tokyo      |     26      |      Partly cloudy      |
+|     Toronto     |     25      |      Partly cloudy      |
+|     Venice      |     33      |        Clear sky        |
+|     Vienna      |     33      |        Clear sky        |
++-----------------+-------------+-------------------------+
